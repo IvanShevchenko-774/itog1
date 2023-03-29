@@ -1,0 +1,15 @@
+/Users/ivanshevcenko/Desktop/BI/C#/Новая папка/task1/bin/Debug/net6.0/task1
+/Users/ivanshevcenko/Desktop/BI/C#/Новая папка/task1/bin/Debug/net6.0/task1.deps.json
+/Users/ivanshevcenko/Desktop/BI/C#/Новая папка/task1/bin/Debug/net6.0/task1.runtimeconfig.json
+/Users/ivanshevcenko/Desktop/BI/C#/Новая папка/task1/bin/Debug/net6.0/task1.dll
+/Users/ivanshevcenko/Desktop/BI/C#/Новая папка/task1/bin/Debug/net6.0/task1.pdb
+/Users/ivanshevcenko/Desktop/BI/C#/Новая папка/task1/obj/Debug/net6.0/task1.csproj.AssemblyReference.cache
+/Users/ivanshevcenko/Desktop/BI/C#/Новая папка/task1/obj/Debug/net6.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanshevcenko/Desktop/BI/C#/Новая папка/task1/obj/Debug/net6.0/task1.AssemblyInfoInputs.cache
+/Users/ivanshevcenko/Desktop/BI/C#/Новая папка/task1/obj/Debug/net6.0/task1.AssemblyInfo.cs
+/Users/ivanshevcenko/Desktop/BI/C#/Новая папка/task1/obj/Debug/net6.0/task1.csproj.CoreCompileInputs.cache
+/Users/ivanshevcenko/Desktop/BI/C#/Новая папка/task1/obj/Debug/net6.0/task1.dll
+/Users/ivanshevcenko/Desktop/BI/C#/Новая папка/task1/obj/Debug/net6.0/refint/task1.dll
+/Users/ivanshevcenko/Desktop/BI/C#/Новая папка/task1/obj/Debug/net6.0/task1.pdb
+/Users/ivanshevcenko/Desktop/BI/C#/Новая папка/task1/obj/Debug/net6.0/task1.genruntimeconfig.cache
+/Users/ivanshevcenko/Desktop/BI/C#/Новая папка/task1/obj/Debug/net6.0/ref/task1.dll
